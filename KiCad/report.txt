@@ -1,0 +1,44 @@
+情報: シンボル 'SW1:Connector_Molex:Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical' を処理中です。
+情報: シンボル 'AE1:MountingHole:MountingHole_5.5mm_Pad' を処理中です。
+情報: シンボル 'D1:LED_THT:LED_D3.0mm' を処理中です。
+情報: シンボル 'C1:Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm' を処理中です。
+情報: シンボル 'BT1:Battery:BatteryHolder_Keystone_3002_1x2032' を処理中です。
+情報: シンボル 'LS1:TerminalBlock_RND:TerminalBlock_RND_205-00045_1x02_P5.00mm_Horizontal' を処理中です。
+情報: シンボル 'MES1:library:2x1_7.62mmScrewTerminal' を処理中です。
+情報: シンボル 'Q1:Package_TO_SOT_THT:TO-92_Inline_Wide' を処理中です。
+情報: シンボル 'Q2:Package_TO_SOT_THT:TO-92_Inline_Wide' を処理中です。
+情報: シンボル 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' を処理中です。
+情報: シンボル 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' を処理中です。
+情報: シンボル 'AE2:MountingHole:MountingHole_5.5mm_Pad' を処理中です。
+R2 (フットプリント 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal')を追加します。
+REF** リファレンス指定子を R2 へ変更しました。
+R2 の値を R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal から 2.2k に変更しました。
+R2 シンボルの関連付けを  から /1ec161e3-1548-4172-ac7d-a383fc21700c へ変更しました。
+R2 のプロパティを更新しました。
+R2 ピン 1 を Net-(Q1-C) に接続しました。
+R2 ピン 2 を Net-(D1-A) に接続しました。
+D1 ピン 2 を Net-(D1-A) に接続しました。
+REF** リファレンス指定子を D1 へ変更しました。
+ネット Net-(D1-A) を追加します。
+D1 ピン 1 を GND に接続しました。
+REF** リファレンス指定子を AE2 へ変更しました。
+AE1 (フットプリント 'MountingHole:MountingHole_5.5mm_Pad')を追加します。
+REF** リファレンス指定子を AE1 へ変更しました。
+AE1 の値を MountingHole_5.5mm_Pad から Antenna に変更しました。
+AE1 シンボルの関連付けを  から /9da601aa-b01c-4646-93e8-deef14eb341b へ変更しました。
+AE1 のプロパティを更新しました。
+AE1 の製造属性 '部品表から除外' を削除しました。
+AE1 ピン 1 を Net-(AE1-A) に接続しました。
+AE2 (フットプリント 'MountingHole:MountingHole_5.5mm_Pad')を追加します。
+D1 のプロパティを更新しました。
+AE2 の値を MountingHole_5.5mm_Pad から Antenna に変更しました。
+AE2 シンボルの関連付けを  から /d4b93068-3631-40d3-b2f0-c6dcb55677f1 へ変更しました。
+AE2 のプロパティを更新しました。
+AE2 の製造属性 '部品表から除外' を削除しました。
+AE2 ピン 1 を Net-(AE1-A) に接続しました。
+D1 (フットプリント 'LED_THT:LED_D3.0mm')を追加します。
+D1 の値を LED_D3.0mm から LED に変更しました。
+D1 シンボルの関連付けを  から /eda21940-1557-4101-8e16-4ef6a5b1ef15 へ変更しました。
+
+
+情報: 合計警告数: 0、エラー数: 0.

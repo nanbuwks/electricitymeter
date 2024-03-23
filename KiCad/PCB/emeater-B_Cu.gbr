@@ -1,0 +1,115 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.8-7.0.8~ubuntu22.04.1*
+G04 #@! TF.CreationDate,2024-03-20T18:35:26+09:00*
+G04 #@! TF.ProjectId,emeater,656d6561-7465-4722-9e6b-696361645f70,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L2,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.8-7.0.8~ubuntu22.04.1) date 2024-03-20 18:35:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRoundRect*
+0 Rectangle with rounded corners*
+0 $1 Rounding radius*
+0 $2 $3 $4 $5 $6 $7 $8 $9 X,Y pos of 4 corners*
+0 Add a 4 corners polygon primitive as box body*
+4,1,4,$2,$3,$4,$5,$6,$7,$8,$9,$2,$3,0*
+0 Add four circle primitives for the rounded corners*
+1,1,$1+$1,$2,$3*
+1,1,$1+$1,$4,$5*
+1,1,$1+$1,$6,$7*
+1,1,$1+$1,$8,$9*
+0 Add four rect primitives between the rounded corners*
+20,1,$1+$1,$2,$3,$4,$5,0*
+20,1,$1+$1,$4,$5,$6,$7,0*
+20,1,$1+$1,$6,$7,$8,$9,0*
+20,1,$1+$1,$8,$9,$2,$3,0*%
+G04 Aperture macros list end*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10C,1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11O,1.600000X1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12R,1.800000X1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD13C,1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD14C,9.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD15C,7.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD16R,2.100000X2.100000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD17C,2.100000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD18R,1.500000X1.500000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD19C,1.500000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD20RoundRect,0.250001X-0.759999X0.499999X-0.759999X-0.499999X0.759999X-0.499999X0.759999X0.499999X0*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD21O,2.020000X1.500000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ViaPad*
+%ADD22C,4.000000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X108000000Y-94810000D03*
+D11*
+X108000000Y-87190000D03*
+D12*
+X103200000Y-73300000D03*
+D13*
+X103200000Y-75840000D03*
+D14*
+X145000000Y-71000000D03*
+D15*
+X137000000Y-61000000D03*
+D16*
+X128000000Y-94000000D03*
+D17*
+X123000000Y-94000000D03*
+D18*
+X121500000Y-81000000D03*
+D19*
+X124000000Y-81000000D03*
+X119000000Y-81000000D03*
+D10*
+X128000000Y-76380000D03*
+D11*
+X128000000Y-84000000D03*
+D20*
+X103040000Y-96000000D03*
+D21*
+X103040000Y-99000000D03*
+X103040000Y-102000000D03*
+D18*
+X135000000Y-81000000D03*
+D19*
+X137500000Y-81000000D03*
+X132500000Y-81000000D03*
+D15*
+X136000000Y-90000000D03*
+X114000000Y-90000000D03*
+D10*
+X137100000Y-72600000D03*
+X137100000Y-75100000D03*
+D22*
+X116000000Y-67000000D03*
+M02*
